@@ -107,5 +107,6 @@ java-springboot-main/
 <div align="center">
   <img src="https://via.placeholder.com/1000x500.png?text=Dashboard+Preview" alt="Dashboard Preview" width="100%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
   <br>
-  <i>(Giao diện tổng quan của dự án)</i>
+  <i><img width="1917" height="853" alt="image" src="https://github.com/user-attachments/assets/5088b99c-40aa-43cd-89c8-842c3dc31c64" />
+</i>
 </div>
